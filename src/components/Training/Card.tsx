@@ -10,7 +10,7 @@ function Card({ h2, h3 }: Props) {
     <div className="container">
       <div className="row">
         <div
-          className="card justify-content-center textCenter col"
+          className="card justify-content-center text-center col"
           style={{
             width: `350px`,
             height: `350px`,
